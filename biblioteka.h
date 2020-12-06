@@ -14,7 +14,7 @@
 #include <numeric>
 #include <stdexcept>
 #include <list>
-#include <deque>
+
 
 using std::cout;
 using std::cin;
