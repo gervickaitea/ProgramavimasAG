@@ -267,7 +267,7 @@ int main()
             istringstream ReadLine(EntryLine);
             ReadLine >> Vardas >> Pavarde >> Egzaminas;
 
-            if (/*Raides(Vardas) && Raides(Pavarde) &&*/ Skaiciai(Egzaminas))
+            if (Raides(Vardas) && Raides(Pavarde) && Skaiciai(Egzaminas))
             {
                 StudentObject.Vardas = Vardas;
                 IlgiausiasVardas = max(IlgiausiasVardas, StudentObject.Vardas.length());
