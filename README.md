@@ -11,7 +11,7 @@ failų kūrimas;
 duomenų nuskaitymas iš failų;
 studentų rūšiavimas į dvi grupes/kategorijas;
 surūšiuotų studentų išvedimas į du naujus failus.
-# 0.5
+# 0.5 V
 Testavimo sistemos parametrai:
 CPU: Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz
 RAM:	Installed Physical Memory (RAM)	8,00 GB
